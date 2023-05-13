@@ -1,3 +1,7 @@
+% Name: Deeshant Sharma
+% Email: deeshantsharmaece@gmail.com
+% College: IIT Hyderabad
+
 clc
 close all;
 clear;
